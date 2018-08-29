@@ -1,0 +1,47 @@
+﻿
+Medidas Professor
+
+> median(Prof..Sec.)
+[1] 19.56
+> mean(Prof..Sec.)
+[1] 20.01983
+> var(Prof..Sec.)
+[1] 211.8513
+> sd(Prof..Sec.)
+[1] 14.55511
+
+Medidas Mecânico
+
+> median(Mecânico) # Mediana da Variável Mêcanico
+[1] 16.435
+> mean(Mecânico) # Média da Varíavel Mecânico
+[1] 18.58907
+> var(Mecânico) # Variância da Variável Mêcanico
+[1] 134.1557
+> sd(Mecânico) # Desvio Padrão da Variável Mêcanico
+[1] 11.58256
+
+Medidas Administrador
+
+> median(Administrador) # Mediana da Variável Administrador
+[1] 42.51
+> mean(Administrador) # Média da Varíavel Administrador
+[1] 42.263
+> var(Administrador) # Variância da Variável Admnistrador
+[1] 408.3367
+> sd(Administrador) # Desvio Padrão da Variável Administrador
+[1] 20.20734
+
+Medidas Engenheiro
+
+> median(Eng..Eletr) # Mediana da Variável Engenheiro Eletrecista
+[1] 33.855
+> mean(Eng..Eletr) # Média da Variável Engeheiro Eletricista
+[1] 32.486
+> var(Eng..Eletr) # Variância da Variável Engeheiro Eletricista
+[1] 200.8266
+> sd(Eng..Eletr) # Desvio Padrão da Variável Engeheiro Eletricista
+[1] 14.17133
+
+
+
